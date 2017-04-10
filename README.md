@@ -16,6 +16,8 @@ hubot-example 内置了以下脚本：
 
 支持通过 `cljdoc {keyword}` 的形式查询 clojure doc api.
 
+![](./art/cljdoc.png)
+
 **scripts/haha.js**:
 
 hubot hear / respond 的样例。

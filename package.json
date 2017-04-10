@@ -11,6 +11,9 @@
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-bearychat": "^0.5.0",
+    "hubot-help": "^0.2.0",
+    "hubot-jenkins": "^1.0.2",
+    "hubot-scripts": "^2.17.2",
     "query-doc": "^0.0.1"
   }
 }

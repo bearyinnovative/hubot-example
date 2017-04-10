@@ -22,6 +22,12 @@ hubot-example 内置了以下脚本：
 
 hubot hear / respond 的样例。
 
+[**hubot-jenkins**](https://www.npmjs.com/package/hubot-jenkins):
+
+在 BearyChat 里面和 Jenkins 进行交互。
+
+![](./art/jenkins.png)
+
 ## 配置方式
 
 ### 公有云

@@ -1,0 +1,16 @@
+{
+  "name": "hubot-example",
+  "version": "0.0.1",
+  "description": "BearyChat hubot 机器人样例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hbc <hbc@bearyinnovative.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-bearychat": "^0.5.0",
+    "query-doc": "^0.0.1"
+  }
+}
